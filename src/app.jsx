@@ -46,7 +46,7 @@ class App extends Component {
           "pagePath": "pages/home/index",
           "iconPath": "assets/image/tab/t_1.png",
           "selectedIconPath": "assets/image/tab/t_11.png",
-          "text": "发现"
+          "text": "呵呵呵呵"
         },
         {
           "pagePath": "pages/video/index",
